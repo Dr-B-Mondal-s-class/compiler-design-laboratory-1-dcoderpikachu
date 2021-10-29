@@ -4,7 +4,7 @@ Hello, My name is <b>Kshitij Tripathi</b> (Branch- Computer Science & Eng. Reg n
 ![iiit ranchi logo](iiitranchilogo.png)
 
 ## 👨‍🎓 NAME: Kshitij Tripathi 
-### 1️⃣3️⃣ (Reg. No.: 2019UGCS052R)
+### 1️⃣3️⃣ (Reg. No.: 2019UGCS013R)
 ## 🖥️ Compiler Design Lab Work :-
 ## 👨‍🏫 SUBMITTED TO: DR. B. MONDAL
 
@@ -14,12 +14,12 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Lex program to recognize if digit or letter.**
 
-```
-        Input : abc      
-        Output : letters
-                        
-        Input : 123
-        Output : digit(s)
+```diff
+ +       Input : abc      
+ +      Output : letters
+ +                       
+ +       Input : 123
+ +       Output : digit(s)
 ```
 *DAY 2*
 
@@ -27,7 +27,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Lex program to check if digit or not.**
 
-```     
+```diff     
        Input : 1               
         Output: This is a digit
                        
@@ -41,7 +41,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 
 
-```
+```diff
         Input: abc
         Output: This contains alphabets
         
