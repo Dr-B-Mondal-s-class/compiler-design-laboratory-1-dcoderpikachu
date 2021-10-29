@@ -146,8 +146,8 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 +Input : ||
 +Output: || is a valid logical operator
-+
-Input : @
+
++Input : @
 +Output: @ is not a valid operator
 ```
 Program 4:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/4)
@@ -232,38 +232,38 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 **Lex program to check for valid mobile number (India).**
 
 ```diff
-       Input: +918234556767
-       Output: Valid Number
++Input: +918234556767
++Output: Valid Number
 
-         Input: +918654345545
-        Output: Valid Number
++Input: +918654345545
++Output: Valid Number
 
-        Input: +9122222222222
-        Output: Invalid Number
++Input: +9122222222222
++Output: Invalid Number
 ```
 
 Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY06%20-2019UGCS013R_DAY_6/2)
 
 **Lex program to check for valid email.**
 ```diff
-       Input: giraffe@gmail.com
-        Output: Invalid email
++Input: giraffe@gmail.com
++Output: Invalid email
 
-        Input: happy3@gmail.com
-        Output: Valid email
++Input: happy3@gmail.com
++Output: Valid email
 
-        Input:wellwisher44_4@gmail.com
-        Output:Invalid email
++Input:wellwisher44_4@gmail.com
++Output:Invalid email
 ```
 Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY06%20-2019UGCS013R_DAY_6/3)
 
 **Lex program to count the number of characters in an input file.**
 ```diff
-       file:inpfile.txt
-       Input:hello World
++file:inpfile.txt
++Input:hello World
                     hello world;
                     hola world! 
-       Output:35
++Output:35
 ```
 
 *DAY 7*
@@ -273,13 +273,13 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 **Lex program to count the total number of characters, white spaces, tabs and new lines in the given input file.**
 
 ```diff
-        File:input.txt
-        Input:hello world
++File:input.txt
++Input:hello world
                      @.....  @.....
                      q    q
 
 
-       Output:
++Output:
                         
                         Line count: 4
                         Whitespaces count: 3
@@ -340,24 +340,24 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 **Lex and YACC programs to check whether a given string is Palindrome or Not.**
 
 
-```
-        Input: Malayalam
-        Output: pallindrome: malayalam
+```diff
++Input: Malayalam
++Output: pallindrome: malayalam
         
-        Input: Kshitij
-        Output: not pallindrome: kshitij
++Input: Kshitij
++Output: not pallindrome: kshitij
 ```
 
 Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY09%20-2019UGCS013R_DAY_9/2)
 
 **Write a program using Lex and YACC which accept strings that starts and ends with 0 or 1**
 
-```
-        Input: 541
-        Output: accepted.
+```diff
++Input: 541
++Output: accepted.
         
-        Input: 768
-        Output: not accepted.
++Input: 768
++Output: not accepted.
         
 ```
 
