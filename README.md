@@ -23,11 +23,11 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 **Lex program to recognize if digit or letter.**
 
 ```diff
- +       Input : abc      
- +      Output : letters
- +                       
- +       Input : 123
- +       Output : digit(s)
+        +Input : abc      
+        +Output : letters
+                        
+        +Input : 123
+        +Output : digit(s)
 ```
 *DAY 2*
 
