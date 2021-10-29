@@ -8,6 +8,14 @@ Hello, My name is <b>Kshitij Tripathi</b> (Branch- Computer Science & Eng. Reg n
 ## 🖥️ Compiler Design Lab Work :-
 ## 👨‍🏫 SUBMITTED TO: DR. B. MONDAL
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 *DAY 1*
 
 Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY01%202019UGCS013R_DAY_1/1)
