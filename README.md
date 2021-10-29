@@ -23,7 +23,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 ```
 *DAY 2*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY02%202019UGCS013R_DAY_2/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY02%20-2019UGCS013R_DAY_2/1)
 
 **Lex program to check if digit or not.**
 
