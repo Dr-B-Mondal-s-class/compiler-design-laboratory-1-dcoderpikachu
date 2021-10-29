@@ -1,6 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5517644&assignment_repo_type=AssignmentRepo)
 
-Hello, My name is <b>Kshitij Tripathi</b> (Branch- Computer Science & Eng. Reg no. - 2019UGCS013R) and this repository contains my Lab work and Assignments for the subject <b>Compiler Design</b> of the 5th semester of my B.Tech course at [Indian Institute of Information Technology (IIIT), Ranchi](https://iiitranchi.ac.in/).
+<b>Kshitij Tripathi</b> (Branch- Computer Science & Eng. Reg no. - 2019UGCS013R)
+<b>Compiler Design</b> BTECH 5TH SEMESTER [Indian Institute of Information Technology (IIIT), Ranchi](https://iiitranchi.ac.in/).
 ![iiit ranchi logo](iiitranchilogo.png)
 
 ## 👨‍🎓 NAME: Kshitij Tripathi 
@@ -8,6 +9,11 @@ Hello, My name is <b>Kshitij Tripathi</b> (Branch- Computer Science & Eng. Reg n
 ## 🖥️ Compiler Design Lab Work :-
 ## 👨‍🏫 SUBMITTED TO: DR. B. MONDAL
 
+Get Started!
+Install flex - windows, linux
+Install any C Compiler
+Compile the lex file file using flex command flex <file_name.l>
+Compile and Run the genereted lex.yy.c file using any C compiler.
 
 *DAY 1*
 
