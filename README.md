@@ -8,13 +8,6 @@ Hello, My name is <b>Kshitij Tripathi</b> (Branch- Computer Science & Eng. Reg n
 ## 🖥️ Compiler Design Lab Work :-
 ## 👨‍🏫 SUBMITTED TO: DR. B. MONDAL
 
-```diff
-- text in red
-+ text in green 
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 *DAY 1*
 
@@ -36,11 +29,11 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 **Lex program to check if digit or not.**
 
 ```diff     
-       Input : 1               
-        Output: This is a digit
++Input : 1               
++Output: This is a digit
                        
-        Input : ab
-        Output :This is not a digit
++Input : ab
++Output :This is not a digit
 ```    
 
 Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY02%20-2019UGCS013R_DAY_2/2)
@@ -50,45 +43,45 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 
 ```diff
-        Input: abc
-        Output: This contains alphabets
++Input: abc
++Output: This contains alphabets
         
-        Input : 12
-        Output : this has other characters
++Input : 12
++Output : this has other characters
 
 ```
 Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY02%20-2019UGCS013R_DAY_2/3)
 
 **Lex program to recognize whether string contains uppercase, lowercase or both.**
-```
-        Input: abc
-        Output: This is a lowercase letters
+```diff
++Input: abc
++Output: This is a lowercase letters
         
-        Input : ABC
-        Output: This is a uppercase letters
++Input : ABC
++Output: This is a uppercase letters
         
-        Input : aBcD
-        Output : It has both cases
++Input : aBcD
++Output : It has both cases
 ```
 *DAY 3*
 
 Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY03%20-2019UGCS013R_DAY_3/1)
 
 **Lex program to recognize vowels or consonants.**
-```
-        Input: aeo
-        Output: Contains only vowels
+```diff
++Input: aeo
++Output: Contains only vowels
         
-        Input : abcd
-        Output : contains both vowels and consonants
-        
-        Input : bfg
-        Output : Contains only consonants
++Input : abcd
++Output : contains both vowels and consonants
+
++Input : bfg
++Output : Contains only consonants
 ```
 Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY03%20-2019UGCS013R_DAY_3/2)
 
 **Lex program to count number of characters in a string.**
-```
+```diff
         Input : hello 52
         Output : 8 
 ```
@@ -96,7 +89,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY03%20-2019UGCS013R_DAY_3/3)
 
 **Lex program to count the composition of the string (vowels, consonants, digits & spaces)**
-```
+```diff
         Input : $hAppy bIrthday $ 50@
         Output : Number of Vowels: 3
                         Number of Consonants: 10
@@ -110,7 +103,7 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/1)
 
 **Lex program to verify valid keyword or not.**
-```
+```diff
         Input: else
         Output : else is the keyword
 
@@ -127,7 +120,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/2)
 
 **Lex program to verify valid identifier.**
-```
+```diff
         Input: sum
         Output: sum is a valid identifier 
 
@@ -147,7 +140,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/3)
 
 **Lex program to determine input operators whether arithmetic or logical.**
-```
+```diff
          Input: +
           Output :+ is a valid arithmetic operator
 
@@ -160,7 +153,7 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 4:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/4)
 
 **Lex program to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=) ).**
-```
+```diff
          Input: >=
         Output: Greater or equal to operator
 
@@ -179,7 +172,7 @@ Program 4:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 5:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/5)
 
 **Lex program to recognize float and int data types.**
-```
+```diff
         Input: 58
         Output: 58 is an int value
 
@@ -194,7 +187,7 @@ Program 5:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY05%20-2019UGCS013R_DAY_5/1)
 
 **Lex program to count the number of lexemes.**
-```
+```diff
        Input: int a=5
         Output: count=4
 
@@ -208,7 +201,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY05%20-2019UGCS013R_DAY_5/2)
 
 **Lex Program to count the number of identifier,lexemes,keywords,integers,fractions,and operators in the input.**
-```
+```diff
        Input: float sum =5.3+4;
         Output:  count of lexemes=7
                         count of keywords=1
@@ -221,7 +214,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
   Program 3:    [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY05%20-2019UGCS013R_DAY_5/3)
   
   **Lex program to check for valid url.**
-  ```
+  ```diff
        Input: https://www.google.com
        Output: Valid URL
 
@@ -238,7 +231,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Lex program to check for valid mobile number (India).**
 
-```
+```diff
        Input: +918234556767
        Output: Valid Number
 
@@ -252,7 +245,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY06%20-2019UGCS013R_DAY_6/2)
 
 **Lex program to check for valid email.**
-```
+```diff
        Input: giraffe@gmail.com
         Output: Invalid email
 
@@ -265,7 +258,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY06%20-2019UGCS013R_DAY_6/3)
 
 **Lex program to count the number of characters in an input file.**
-```
+```diff
        file:inpfile.txt
        Input:hello World
                     hello world;
@@ -279,7 +272,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Lex program to count the total number of characters, white spaces, tabs and new lines in the given input file.**
 
-```
+```diff
         File:input.txt
         Input:hello world
                      @.....  @.....
@@ -300,15 +293,15 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Lex program to count the number of lexems in the given input file.**
 
-```
-        File:-input.txt
-        Input:int i=0;
+```diff
++File:-input.txt
++Input:int i=0;
                      for(i=3;i<n;i++)
                      {
                         a++;
                      }
 
-        output:- Total no. of lexemes = 24
++output:- Total no. of lexemes = 24
 ```
 
 
@@ -316,15 +309,15 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Lex program to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file.**
 
-```
-        Input File:-input.txt
-       Input:hello world
+```diff
++Input File:-input.txt
++Input:hello world
                      @.....  @.....
                      q    q
 
 
-         Output File:-output.txt
-         Output:
++Output File:-output.txt
++Output:
 
 ```
 *DAY 8*
@@ -333,12 +326,12 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Sample YACC Program**
 
-``` 
-       Input:hi
-        Output:Hello World
+```diff
++Input:hi
++Output:Hello World
         
-        Input:bye
-        Output:Bye World
++Input:bye
++Output:Bye World
 ```
 *DAY 9*
 
