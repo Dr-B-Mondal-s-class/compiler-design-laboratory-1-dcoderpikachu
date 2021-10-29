@@ -10,7 +10,7 @@ Hello, My name is <b>Kshitij Tripathi</b> (Branch- Computer Science & Eng. Reg n
 
 ```diff
 - text in red
-+ text in green
++ text in green 
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
@@ -23,11 +23,11 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 **Lex program to recognize if digit or letter.**
 
 ```diff
-        +Input : abc      
-        +Output : letters
-                        
-        +Input : 123
-        +Output : digit(s)
++Input : abc      
++Output : letters
+
++Input : 123
++Output : digit(s)
 ```
 *DAY 2*
 
