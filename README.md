@@ -1,16 +1,16 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5517644&assignment_repo_type=AssignmentRepo)
 
-Hello, My name is <b>Kshitij Tripathi</b> (Branch- Computer Science & Eng. Reg no. - 2019UGCS001R) and this repository contains my Lab work and Assignments for the subject <b>Compiler Design</b> of the 5th semester of my B.Tech course at [Indian Institute of Information Technology (IIIT), Ranchi](https://iiitranchi.ac.in/).
+Hello, My name is <b>Kshitij Tripathi</b> (Branch- Computer Science & Eng. Reg no. - 2019UGCS013R) and this repository contains my Lab work and Assignments for the subject <b>Compiler Design</b> of the 5th semester of my B.Tech course at [Indian Institute of Information Technology (IIIT), Ranchi](https://iiitranchi.ac.in/).
 ![iiit ranchi logo](iiitranchilogo.png)
 
-## NAME: Kshitij Tripathi 
-### (Reg. No.: 2019UGCS052R)
-## Compiler Design Lab Work :-
-
+## 👨‍🎓 NAME: Kshitij Tripathi 
+### 1️⃣3️⃣ (Reg. No.: 2019UGCS052R)
+## 🖥️ Compiler Design Lab Work :-
+## 👨‍🏫 SUBMITTED TO: DR. B. MONDAL
 
 *DAY 1*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_1/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY01%202019UGCS013R_DAY_1/1)
 
 **Lex program to recognize if digit or letter.**
 
@@ -23,7 +23,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 ```
 *DAY 2*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_2/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY02%202019UGCS013R_DAY_2/1)
 
 **Lex program to check if digit or not.**
 
@@ -35,7 +35,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Output :This is not a digit
 ```    
 
-Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_2/2)
+Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY02%20-2019UGCS013R_DAY_2/2)
 
 **Lex program to recognize whether string contains only letters or not.**
 
@@ -49,7 +49,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Output : this has other characters
 
 ```
-Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_2/3)
+Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY02%20-2019UGCS013R_DAY_2/3)
 
 **Lex program to recognize whether string contains uppercase, lowercase or both.**
 ```
@@ -64,7 +64,7 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 ```
 *DAY 3*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_3/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY03%20-2019UGCS013R_DAY_3/1)
 
 **Lex program to recognize vowels or consonants.**
 ```
@@ -77,7 +77,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Input : bfg
         Sample Output : Contains only consonants
 ```
-Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_3/2)
+Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY03%20-2019UGCS013R_DAY_3/2)
 
 **Lex program to count number of characters in a string.**
 ```
@@ -85,7 +85,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Output : 8 
 ```
 
-Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_3/3)
+Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY03%20-2019UGCS013R_DAY_3/3)
 
 **Lex program to count the composition of the string (vowels, consonants, digits & spaces)**
 ```
@@ -99,7 +99,7 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 *DAY 4*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_4/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/1)
 
 **Lex program to verify valid keyword or not.**
 ```
@@ -116,7 +116,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Output : while is the keyword
         
 ```
-Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_4/2)
+Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/2)
 
 **Lex program to verify valid identifier.**
 ```
@@ -136,7 +136,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Output : a1_b is an invalid identifier
 ```
 
-Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_4/3)
+Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/3)
 
 **Lex program to determine input operators whether arithmetic or logical.**
 ```
@@ -149,7 +149,7 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
          Sample Input : @
          Sample Output: @ is not a valid operator
 ```
-Program 4:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_4/4)
+Program 4:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/4)
 
 **Lex program to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=) ).**
 ```
@@ -168,7 +168,7 @@ Program 4:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Input: &
         Sample Output: invalid operator!
 ```
-Program 5:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_4/5)
+Program 5:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/5)
 
 **Lex program to recognize float and int data types.**
 ```
@@ -183,7 +183,7 @@ Program 5:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 ```
 *DAY 5*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_5/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY05%20-2019UGCS013R_DAY_5/1)
 
 **Lex program to count the number of lexemes.**
 ```
@@ -197,7 +197,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Output: count=7
 ```
 
-Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_5/2)
+Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY05%20-2019UGCS013R_DAY_5/2)
 
 **Lex Program to count the number of identifier,lexemes,keywords,integers,fractions,and operators in the input.**
 ```
@@ -210,7 +210,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
                         count of operators=3
   ```
   
-  Program 3:    [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_5/3)
+  Program 3:    [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY05%20-2019UGCS013R_DAY_5/3)
   
   **Lex program to check for valid url.**
   ```
@@ -226,7 +226,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 *DAY 6*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_6/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY06%20-2019UGCS013R_DAY_6/1)
 
 **Lex program to check for valid mobile number (India).**
 
@@ -241,7 +241,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Output: Invalid Number
 ```
 
-Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_6/2)
+Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY06%20-2019UGCS013R_DAY_6/2)
 
 **Lex program to check for valid email.**
 ```
@@ -254,7 +254,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Input:wellwisher44_4@gmail.com
         Sample Output:Invalid email
 ```
-Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_6/3)
+Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY06%20-2019UGCS013R_DAY_6/3)
 
 **Lex program to count the number of characters in an input file.**
 ```
@@ -267,7 +267,7 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 *DAY 7*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_7/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY07%20-2019UGCS013R_DAY_7/1)
 
 **Lex program to count the total number of characters, white spaces, tabs and new lines in the given input file.**
 
@@ -288,7 +288,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 ```
 
 
-Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_7/2)
+Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY07%20-2019UGCS013R_DAY_7/2)
 
 **Lex program to count the number of lexems in the given input file.**
 
@@ -304,7 +304,7 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 ```
 
 
-Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_7/3)
+Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY07%20-2019UGCS013R_DAY_7/3)
 
 **Lex program to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file.**
 
@@ -321,7 +321,7 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 ```
 *DAY 8*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_8/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY08%20-2019UGCS013R_DAY_8/1)
 
 **Sample YACC Program**
 
@@ -334,7 +334,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 ```
 *DAY 9*
 
-Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_9/1)
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY09%20-2019UGCS013R_DAY_9/1)
 
 **Lex and YACC programs to check whether a given string is Palindrome or Not.**
 
@@ -347,7 +347,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
         Sample Output: not pallindrome: kshitij
 ```
 
-Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_9/2)
+Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY09%20-2019UGCS013R_DAY_9/2)
 
 **Write a program using Lex and YACC which accept strings that starts and ends with 0 or 1**
 
