@@ -90,8 +90,8 @@ Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Lex program to count the composition of the string (vowels, consonants, digits & spaces)**
 ```diff
-        Input : $hAppy bIrthday $ 50@
-        Output : Number of Vowels: 3
++Input : $hAppy bIrthday $ 50@
++Output : Number of Vowels: 3
                         Number of Consonants: 10
                         Number of digits: 2
                         Number of space: 3
@@ -104,83 +104,83 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Lex program to verify valid keyword or not.**
 ```diff
-        Input: else
-        Output : else is the keyword
++Input: else
++Output : else is the keyword
 
-        Input : him
-        Output: him is not a keyword
++Input : him
++Output: him is not a keyword
 
-        Input : not
-        Output : not is not a keyword
++Input : not
++Output : not is not a keyword
 
-        Input : while
-        Output : while is the keyword
++Input : while
++Output : while is the keyword
         
 ```
 Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/2)
 
 **Lex program to verify valid identifier.**
 ```diff
-        Input: sum
-        Output: sum is a valid identifier 
++Input: sum
++Output: sum is a valid identifier 
 
-       Input: 12
-        Output: 12 is an invalid identifier
++Input: 12
++Output: 12 is an invalid identifier
        
-        Input : float
-        Output : float  is an invalid identifier
++Input : float
++Output : float  is an invalid identifier
         
-        Input : FLOA
-        Output : FLOAT is valid identifier
++Input : FLOA
++Output : FLOAT is valid identifier
     
-        Input : a1_b
-        Output : a1_b is an invalid identifier
++Input : a1_b
++Output : a1_b is an invalid identifier
 ```
 
 Program 3:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/3)
 
 **Lex program to determine input operators whether arithmetic or logical.**
 ```diff
-         Input: +
-          Output :+ is a valid arithmetic operator
++Input: +
++Output :+ is a valid arithmetic operator
 
-         Input : ||
-          Output: || is a valid logical operator
-
-         Input : @
-         Output: @ is not a valid operator
++Input : ||
++Output: || is a valid logical operator
++
+Input : @
++Output: @ is not a valid operator
 ```
 Program 4:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/4)
 
 **Lex program to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=) ).**
 ```diff
-         Input: >=
-        Output: Greater or equal to operator
++Input: >=
++Output: Greater or equal to operator
 
-        Input: <=
-        Output: Lesser or equal to operator
++Input: <=
++Output: Lesser or equal to operator
 
-        Input: +
-        Output: PLUS operator.
++Input: +
++Output: PLUS operator.
 
-       Input: -
-        Output: MINUS operator
++Input: -
++Output: MINUS operator
 
-        Input: &
-        Output: invalid operator!
++Input: &
++Output: invalid operator!
 ```
 Program 5:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY04%20-2019UGCS013R_DAY_4/5)
 
 **Lex program to recognize float and int data types.**
 ```diff
-        Input: 58
-        Output: 58 is an int value
++Input: 58
++Output: 58 is an int value
 
-        Input: 6.63
-        Output: 6.63 is a float value
++Input: 6.63
++Output: 6.63 is a float value
 
-       Input: a
-        Output: a is Invalid 
++Input: a
++Output: a is Invalid 
 ```
 *DAY 5*
 
@@ -188,22 +188,22 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 
 **Lex program to count the number of lexemes.**
 ```diff
-       Input: int a=5
-        Output: count=4
++Input: int a=5
++Output: count=4
 
-        Input: float d=3.15
-        Output: count=4
++Input: float d=3.15
++Output: count=4
 
-       Input: int sum=a+b;
-       Output: count=7
++Input: int sum=a+b;
++Output: count=7
 ```
 
 Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-dcoderpikachu/tree/main/Lab-%20DAY05%20-2019UGCS013R_DAY_5/2)
 
 **Lex Program to count the number of identifier,lexemes,keywords,integers,fractions,and operators in the input.**
 ```diff
-       Input: float sum =5.3+4;
-        Output:  count of lexemes=7
++Input: float sum =5.3+4;
++Output:  count of lexemes=7
                         count of keywords=1
                         count of identifiers=1
                         count of integers=1
@@ -215,14 +215,14 @@ Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
   
   **Lex program to check for valid url.**
   ```diff
-       Input: https://www.google.com
-       Output: Valid URL
++Input: https://www.google.com
++Output: Valid URL
 
-        Input: http://www/giraffe.co.in
-        Output:Invalid URL
++Input: http://www/giraffe.co.in
++Output:Invalid URL
 
-        Input: http://www.happy.net
-        Output:Valid URL
++Input: http://www.happy.net
++Output:Valid URL
 ```
 
 *DAY 6*
