@@ -7,7 +7,7 @@
 ## 👨‍🎓 NAME: Kshitij Tripathi 
 ### 1️⃣3️⃣ (Reg. No.: 2019UGCS013R)
 ## 🖥️ Compiler Design Lab Work :-
-## 👨‍🏫 SUBMITTED TO: DR. B. MONDAL
+## 👨‍🏫 SUBMITTED TO: DR. B. MONDAL(https://github.com/bhaskarfx)
 
 Get Started!
 Install flex - windows, linux
